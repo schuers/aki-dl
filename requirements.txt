@@ -1,0 +1,9 @@
+ipykernel
+matplotlib
+numpy
+tqdm
+ipywidgets
+
+# The PyTorch Intel XPU extension is required for running PyTorch on Intel CPUs.
+# It must be installed separately from the main PyTorch package.
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/xpu
